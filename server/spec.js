@@ -20,5 +20,3 @@ describe('[LIONS]', function(){
       })
   });
 });
-
-
